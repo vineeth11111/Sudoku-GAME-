@@ -1,4 +1,5 @@
 // ---------------------------------SUDOKU GAME-----------------------------
+// It helps us to know whether a sudoku can be solvable or not
 
 public class SudokuSolver {
 	  
